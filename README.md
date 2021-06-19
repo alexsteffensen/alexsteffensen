@@ -7,10 +7,14 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-Languages and Frameworks: | [<img src="logos/languages-frameworks/c.png" alt="c logo" width="24">](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-160) | [<img src = "logos/languages-frameworks/javascript.png" alt = "javascript logo" width = "24">](https://www.javascript.com/) | [<img src = "logos/languages-frameworks/nodejs.png" alt = "nodejs logo" width = "24">](https://nodejs.org/en/) | [<img src = "logos/languages-frameworks/rust.png" alt = "rust logo" width = "24">](https://www.rust-lang.org/) |
-|---|-----|----|----|
+Languages and Frameworks: 
 
-Tools: | [<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="logos/tools/terminal.png" alt="terminal logo" width="24">]() | [<img src="logos/tools/macos.png" alt="macos logo" width="24">](https://www.apple.com/dk/macos/big-sur/) | [<img src="logos/tools/clion.png" alt="clion logo" width="24">](https://www.jetbrains.com/clion/) | [<img src="logos/tools/webstorm-logo.png" alt="webstorm logo" width="24">](https://www.jetbrains.com/webstorm/) | [<img src="logos/tools/visual-studio-code.png" alt="visual studio code logo" width="24">](https://code.visualstudio.com/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
+| [<img src="logos/languages-frameworks/c.png" alt="c logo" width="24">](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-160) | [<img src = "logos/languages-frameworks/javascript.png" alt = "javascript logo" width = "24">](https://www.javascript.com/) | [<img src = "logos/languages-frameworks/nodejs.png" alt = "nodejs logo" width = "24">](https://nodejs.org/en/) | [<img src = "logos/languages-frameworks/rust.png" alt = "rust logo" width = "24">](https://www.rust-lang.org/) |
+|---|---|---|---|
+
+Tools: 
+
+| [<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="logos/tools/terminal.png" alt="terminal logo" width="24">]() | [<img src="logos/tools/macos.png" alt="macos logo" width="24">](https://www.apple.com/dk/macos/big-sur/) | [<img src="logos/tools/clion.png" alt="clion logo" width="24">](https://www.jetbrains.com/clion/) | [<img src="logos/tools/webstorm-logo.png" alt="webstorm logo" width="24">](https://www.jetbrains.com/webstorm/) | [<img src="logos/tools/visual-studio-code.png" alt="visual studio code logo" width="24">](https://code.visualstudio.com/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
 |---|---|---|---|---|---|---|
 
 <h3> 👥 &nbsp;Socials</h3>
