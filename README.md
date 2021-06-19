@@ -7,7 +7,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-Languages and Frameworks: | [<img src = " " alt = " " width = "24">](website) | 
+Languages and Frameworks: | [<img src = "logos/languages-frameworks/c.png" alt = "c logo" width = "24">](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-160) | [<img src = "logos/languages-frameworks/javascript.png" alt = "javascript logo" width = "24">](https://www.javascript.com/) | [<img src = "logos/languages-frameworks/nodejs.png" alt = "nodejs logo" width = "24">](https://nodejs.org/en/) | [<img src = "logos/languages-frameworks/rust.png" alt = "rust logo" width = "24">](https://www.rust-lang.org/) |
 
 Tools: | [<img src = " " alt = " " width = "24">](website) | 
 
