@@ -7,7 +7,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-Languages and Frameworks:
+Languages and Frameworks: | [<img src = " " alt = " " width = "24">](website) | 
 
 Tools: | [<img src = " " alt = " " width = "24">](website) | 
 
