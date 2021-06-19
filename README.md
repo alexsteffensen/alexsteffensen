@@ -7,6 +7,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+Languages and Frameworks:
+
+Tools: | [<img src = " " alt = " " width = "24">](website) | 
 
 <h3> 👥 &nbsp;Socials</h3>
 
