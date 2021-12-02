@@ -1,4 +1,4 @@
-### Hi there, fellow \<devevloper\> 👋
+### Hi there, fellow \<dev\> 👋
 
 - My name is Alexander Skytt Steffensen 🙋‍♂️
 - Living in Aalborg, Denmark 🌇
