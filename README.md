@@ -25,7 +25,7 @@ Tools:
 <details>
   <summary>✨ Github Stats</summary>
   <br>
-  <img align="left" alt="Alexander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlexanderSteffensen&show_icons=true&theme=dracula" />
+  <img align="left" alt="Alexander's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexsteffensen&show_icons=true&theme=dracula" />
   <br>
   <br>
   <br>
@@ -39,7 +39,7 @@ Tools:
 <details>
   <summary>🔥 Top languages</summary>
   <br>
-  <img align="left" alt="Alexander's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSteffensen&theme=dracula" /> <br>
+  <img align="left" alt="Alexander's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteffensen&theme=dracula" /> <br>
   <br>
   <br>
   <br>
