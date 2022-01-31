@@ -15,7 +15,7 @@ Languages and Frameworks:
 Tools: 
 
 | [<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="logos/tools/terminal.png" alt="terminal logo" width="24">]() | [<img src="logos/tools/macos.png" alt="macos logo" width="24">](https://www.apple.com/dk/macos/big-sur/) | [<img src="logos/tools/jetbrains-toolbox.png" alt="jetbrains toolbox" width= "24">](https://www.jetbrains.com/toolbox-app/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|
 
 <h3> 👥 &nbsp;Socials</h3>
 
