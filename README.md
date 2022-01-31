@@ -14,7 +14,7 @@ Languages and Frameworks:
 
 Tools: 
 
-| [<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="logos/tools/terminal.png" alt="terminal logo" width="24">]() | [<img src="logos/tools/macos.png" alt="macos logo" width="24">](https://www.apple.com/dk/macos/big-sur/) | [<img src="logos/tools/clion.png" alt="clion logo" width="24">](https://www.jetbrains.com/clion/) | [<img src="logos/tools/webstorm-logo.png" alt="webstorm logo" width="24">](https://www.jetbrains.com/webstorm/) | [<img src="logos/tools/visual-studio-code.png" alt="visual studio code logo" width="24">](https://code.visualstudio.com/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
+| [<img src="logos/tools/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="logos/tools/terminal.png" alt="terminal logo" width="24">]() | [<img src="logos/tools/macos.png" alt="macos logo" width="24">](https://www.apple.com/dk/macos/big-sur/) | [<img src="logos/tools/jetbrains-toolbox.png" alt="jetbrains toolbox" width= "24">](https://www.jetbrains.com/toolbox-app/) | [<img src="logos/tools/trello.png" alt="trello logo" width="24">](https://trello.com/) |
 |---|---|---|---|---|---|---|
 
 <h3> 👥 &nbsp;Socials</h3>
@@ -40,6 +40,9 @@ Tools:
   <summary>🔥 Top languages</summary>
   <br>
   <img align="left" alt="Alexander's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteffensen&theme=dracula" /> <br>
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
